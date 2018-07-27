@@ -10,5 +10,5 @@ Also, be sure to `@mention` the Section Lead in charge of the section of the cur
 
 ## Resources
 
-* [How to Submit a Pull Request](https://img.youtube.com/vi/VUa9ijA0ugI/0.jpg)](https://www.youtube.com/watch?v=VUa9ijA0ugI)
+* [How to Submit a Pull Request](https://www.youtube.com/watch?v=VUa9ijA0ugI)
 * [Section Leads](https://github.com/flatiron-labs/technical-coach-resources/blob/master/section-leads.md)
