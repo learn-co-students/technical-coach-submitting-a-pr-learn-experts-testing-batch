@@ -6,9 +6,7 @@ In some cases, the fix for the problem can be simple enough for you to make a PR
 
 It's also a good idea to reference any issues that your PR may be resolving. You can do this by adding a # in front of the number that corresponds to the issue. (If the issue is tagged #9, you can say resolves #9 in your PR and they will be automatically linked together)
 
-Also, be sure to `@mention` the Section Lead in charge of the section of the curriculum to which the lesson belongs. You can find that info [here](https://github.com/flatiron-labs/technical-coach-resources/blob/master/section-leads.md).
 
 ## Resources
 
 * [How to Submit a Pull Request](https://www.youtube.com/watch?v=VUa9ijA0ugI)
-* [Section Leads](https://github.com/flatiron-labs/technical-coach-resources/blob/master/section-leads.md)
